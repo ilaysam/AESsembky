@@ -1,2 +1,2 @@
-# X8086_AES_ENCRYPTION
+# AESSEMBLY
 AES encryption and decryption algorithms implemented in assembly from scratch.
